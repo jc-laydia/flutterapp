@@ -1,4 +1,4 @@
-# weather_app
+# weather_app using Blocs and Rest API
 
 A new Flutter project.
 
